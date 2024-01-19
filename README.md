@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarinaFate
-- 👀 I’m interested in learning new things
+- 👀 I’m interested in learning new things and how to improve or preserve (if they are good) current things
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on how to efficiently control versions
 - 📫 How to reach me: by email gerkarina@gmail.com
